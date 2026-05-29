@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/test/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 this links to [[Hallo world\|Hallo world]]

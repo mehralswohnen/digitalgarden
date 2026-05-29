@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hallo-world/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/hallo-world/","dg-note-properties":{}}
 ---
 
 
