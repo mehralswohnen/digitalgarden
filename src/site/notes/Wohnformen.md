@@ -6,6 +6,7 @@ Es gibt sehr viele verschiedene Wohnformen. Manche Formen überschneiden sich. E
 
 [[Mehrgenerationen\|Mehrgenerationen]]
 [[Cluster\|Cluster]]
+[[Wohngemeinschaft\|Wohngemeinschaft]]
 
 
 Legal Umsetzung
